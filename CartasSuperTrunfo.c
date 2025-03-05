@@ -1,6 +1,6 @@
 #include <stdio.h>
 // Desafio Super Trunfo - Países
-// Teste Alex Lacerda
+// Teste Alex Dos Santos Lacerda
 // Modo Novato
 
 //Declaração de variáveis:
